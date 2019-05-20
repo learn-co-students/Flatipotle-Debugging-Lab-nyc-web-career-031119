@@ -6,6 +6,6 @@ const Side = (props) => {
       { props.sides.join(", ") }
     </div>
   )
-}
+};
 
 export default Side

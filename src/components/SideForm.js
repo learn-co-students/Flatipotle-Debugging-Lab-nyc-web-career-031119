@@ -112,4 +112,6 @@ const SideForm = (props) => {
       </div>
     </Fragment>
   )
-}
+};
+
+export default SideForm
