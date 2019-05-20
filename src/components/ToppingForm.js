@@ -127,6 +127,6 @@ const ToppingForm = (props) => {
       </div>
     </Fragment>
   )
-}
+};
 
 export default ToppingForm
